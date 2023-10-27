@@ -1,0 +1,32 @@
+.Main {
+    text-align: center;
+    background-color: grey;
+    margin-bottom: 10px;
+  }
+  
+  .input-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .take {
+    padding: 15px;
+    width: 500px;
+    margin-left: 18px;
+    margin-right: 18px;
+    flex: 1;
+  }
+  
+  .Button {
+    padding: 15px;
+    width: 100px;
+    color: black;
+    border-radius: 4px;
+    margin-left: 10px;
+  }
+  
+  .error-message {
+    color: red;
+  }
+  

@@ -1,0 +1,59 @@
+.FeaturedTutorial{
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+  }
+  
+  .TutorialContainer {
+    display: flex;
+    margin-left: 10px;
+    width: 95%;
+    margin: 50px;
+    gap: 20px;
+  }
+  
+  .Tutorial {
+    width: calc(33.33% - 20px);
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: left;
+  }
+  
+  .TutorialImage {
+    width: 80%;
+  }
+  
+  .TutorialDetails {
+    margin-top: 10px;
+  }
+  
+  .TutorialTitle {
+    font-size: 18px;
+    margin: 0;
+  }
+  
+  .TutorialDescription {
+    font-size: 14px;
+    margin: 8px 0;
+  }
+  
+  .Author{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 14px;
+  }
+  .Rating {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 14px;
+  }
+  
+  .AuthorName{
+    margin: 0;
+  }
+  .TutorialeRating {
+    margin: 0;
+  }
+  
